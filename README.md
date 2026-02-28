@@ -1,4 +1,4 @@
-Tic Tac Toe - C# Windows Forms
+**Tic Tac Toe - C# Windows Forms
 A classic Tic Tac Toe game implemented in C# using Windows Forms. This project features a graphical user interface where two players can take turns playing on a 3x3 grid.
 
 🚀 Features
@@ -44,3 +44,4 @@ Reset: Clears images, tags, colors, and resets the turn counter to start over.
 
 🤝 Contributing
 Feel free to submit issues or pull requests if you want to add features like AI opponent or sound effects!
+**
