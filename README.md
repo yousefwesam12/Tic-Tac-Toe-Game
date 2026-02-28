@@ -1,4 +1,4 @@
-# **Tic Tac Toe - C# Windows Forms Project**
+# **🎮 Tic Tac Toe - C# Windows Forms Project**
 
 **A comprehensive, interactive Tic Tac Toe game developed using C# and Windows Forms.** This project serves as a practical implementation of fundamental programming concepts within a graphical environment, offering a seamless user experience for two players.
 
